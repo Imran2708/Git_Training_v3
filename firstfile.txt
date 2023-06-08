@@ -1,1 +1,3 @@
 THis is the remote repository.
+
+And this is another commit from local machine.
