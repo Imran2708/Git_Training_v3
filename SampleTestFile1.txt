@@ -3,3 +3,4 @@ poorer get poorer richer gets richer
 This is Sample File 1
 This is Comparison lecture
 
+This is stash lecture, Change in File 1
